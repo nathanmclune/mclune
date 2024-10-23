@@ -11,12 +11,12 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   # name = "Your name here"
-  # headline = "An awesome person"
+   headline = "📷 Photographer  💻 Technology Professional "
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
-    # { email = "mailto:hello@your_domain.com" },
-    # { link = "https://link-to-some-website.com/" },
+      { email = "mailto:mail@nathanmclune.com" },
+      { link = "https://nathanmclune.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
@@ -55,7 +55,7 @@ disableKinds = ["taxonomy", "term"]
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
-    # { whatsapp = "https://wa.me/phone-number" },
+      { whatsapp = "https://wa.me/message/KG6XI3C2EUPUI1" },
     # { x = "https://x.com/username" },
     # { youtube = "https://youtube.com/username" },
   ]
