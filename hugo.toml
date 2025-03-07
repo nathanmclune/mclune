@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "term"]
       { instagram = "https://instagram.com/nathanmclune" },
       { email = "mailto:nathan@mclune.com" },
       { linkedin = "https://www.linkedin.com/in/nmclune" },
-      { github = "https://github.com/nathanmclune" },
+      #{ github = "https://github.com/nathanmclune" },
 
     # { whatsapp = "https://wa.me/message/xxxx" },
 
