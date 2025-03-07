@@ -10,13 +10,19 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  # name = "Your name here"
+   name = "Nathan McLune"
    headline = "📷 Photographer  💻 Technology Professional "
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
-      { email = "mailto:mail@nathanmclune.com" },
       { link = "https://nathanmclune.com/" },
+      { instagram = "https://instagram.com/nathanmclune" },
+      { email = "mailto:nathan@mclune.com" },
+      { linkedin = "https://www.linkedin.com/in/nmclune" },
+      { github = "https://github.com/nathanmclune" },
+
+    # { whatsapp = "https://wa.me/message/xxxx" },
+
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
@@ -28,20 +34,17 @@ disableKinds = ["taxonomy", "term"]
     # { facebook = "https://facebook.com/username" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
-    # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-      { instagram = "https://instagram.com/nathanmclune" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
-    # { linkedin = "https://linkedin.com/in/username" },
     # { mastodon = "https://mastodon.instance/@username" },
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },
     # { patreon = "https://www.patreon.com/username" },
     # { pinterest = "https://pinterest.com/username" },
-    # { reddit = "https://reddit.com/user/username" },
+    # { reddit = "https://reddit.com/user/nathanmclune" },
     # { slack = "https://workspace.url/team/userid" },
     # { snapchat = "https://snapchat.com/add/username" },
     # { soundcloud = "https://soundcloud.com/username" },
@@ -55,7 +58,6 @@ disableKinds = ["taxonomy", "term"]
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
-      { whatsapp = "https://wa.me/message/KG6XI3C2EUPUI1" },
     # { x = "https://x.com/username" },
     # { youtube = "https://youtube.com/username" },
   ]
