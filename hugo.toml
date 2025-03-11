@@ -15,7 +15,8 @@ disableKinds = ["taxonomy", "term"]
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
-      { link = "https://nathanmclune.com/" },
+       { link = { href = "https://nathanmclune.com/", text = "Photography" } },
+      #{ link = "https://nathanmclune.com/" },
       { instagram = "https://instagram.com/nathanmclune" },
       { email = "mailto:nathan@mclune.com" },
       { linkedin = "https://www.linkedin.com/in/nmclune" },
