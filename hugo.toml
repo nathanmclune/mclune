@@ -11,17 +11,20 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
    name = "Nathan McLune"
-   headline = "📷 Photographer  💻 Technology Professional "
+   headline = "Photographer & IT Specialist "
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
        { link = { href = "https://nathanmclune.com/", text = "Photography" } },
        { link = { href = "https://www.eventbrite.co.uk/o/nathan-mclune-111141374551", text = "Workshops" } },
+       { link = { href = "https://substack.com/@nathanmclune?utm_source=user-menu", text = "Substack" } },
+
       #{ link = "https://nathanmclune.com/" },
       { instagram = "https://instagram.com/nathanmclune" },
      # { email = "mailto:test@mclune.com" },
-      { linkedin = "https://www.linkedin.com/in/nmclune" },
-      { github = "https://gist.github.com/nathanmclune" },
+       { github = "https://gist.github.com/nathanmclune" },
+       { linkedin = "https://www.linkedin.com/in/nmclune" },
+
 
     # { whatsapp = "https://wa.me/message/xxxx" },
 
