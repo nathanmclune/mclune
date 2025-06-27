@@ -16,9 +16,10 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
        { link = { href = "https://nathanmclune.com/", text = "Photography" } },
+       { link = { href = "https://www.eventbrite.co.uk/o/nathan-mclune-111141374551", text = "Workshops" } },
       #{ link = "https://nathanmclune.com/" },
       { instagram = "https://instagram.com/nathanmclune" },
-      { email = "mailto:nathan@mclune.com" },
+     # { email = "mailto:test@mclune.com" },
       { linkedin = "https://www.linkedin.com/in/nmclune" },
       { github = "https://gist.github.com/nathanmclune" },
 
