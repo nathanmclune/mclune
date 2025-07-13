@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "term"]
        { link = { href = "https://nathanmclune.com/", text = "Street Photography" } },
       { link = { href = "https://mclunemakesmemories.com/", text = "Family Photography" } },
        { link = { href = "https://www.eventbrite.co.uk/o/nathan-mclune-111141374551", text = "Workshops" } },
-       { link = { href = "https://substack.com/@nathanmclune?utm_source=user-menu", text = "Substack" } },
+       { link = { href = "https://substack.com/@nathanmclune", text = "Substack" } },
 
       #{ link = "https://nathanmclune.com/" },
       { instagram = "https://instagram.com/nathanmclune" },
